@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba_oop_7_doubly_linked_list", "laba_oop_7_doubly_linked_list\laba_oop_7_doubly_linked_list.csproj", "{446B45C5-FDAA-4D5E-AD2D-8306AA544E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446B45C5-FDAA-4D5E-AD2D-8306AA544E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446B45C5-FDAA-4D5E-AD2D-8306AA544E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446B45C5-FDAA-4D5E-AD2D-8306AA544E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446B45C5-FDAA-4D5E-AD2D-8306AA544E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {618A9B30-B53E-4769-9EA6-4DF55334E8F6}
+	EndGlobalSection
+EndGlobal
